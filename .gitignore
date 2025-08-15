@@ -5,3 +5,7 @@ __pycache__/
 *.pyc
 # Ignore environment files
 .env
+/homework_stage3_data/*
+!/homework_stage3_data/processed/
+/homework_stage3_data/processed/*
+!/homework_stage3_data/processed/summary.csv
