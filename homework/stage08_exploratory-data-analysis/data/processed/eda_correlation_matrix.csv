@@ -1,0 +1,5 @@
+,age,income,transactions,spend
+age,1.0,-0.123,0.038,0.008
+income,-0.123,1.0,0.064,0.307
+transactions,0.038,0.064,1.0,0.481
+spend,0.008,0.307,0.481,1.0
